@@ -1,6 +1,6 @@
 # Sales-Prediction-Project
 
-Coca cola Company is trying to find out if it’s advertising expenditure on various media channels (TV, Radio, and Newspaper) has an impact on its product sales. It decided to employ the services of a data consultant to solve this problem with particular interest in TV advertising.
+Food cart Company is trying to find out if it’s advertising expenditure on various media channels (TV, Radio, and Newspaper) has an impact on its product sales. It decided to employ the services of a data consultant to solve this problem with particular interest in TV advertising.
 
 STEP 1:  Exploratory data analysis
 
